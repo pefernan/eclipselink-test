@@ -1,0 +1,19 @@
+<project>
+   <parent>
+      <groupId>org.kie.eclipselink</groupId>
+      <version>1.0</version>
+      <artifactId>eclipse-link-parent</artifactId>
+   </parent>
+   <modelVersion>4.0.0</modelVersion>
+
+   <artifactId>eclipselink-standalone</artifactId>
+   <name>EclipseLink Standalone</name>
+
+   <dependencies>
+      <dependency>
+         <groupId>org.eclipse.persistence</groupId>
+         <artifactId>eclipselink</artifactId>
+         <version>3.0.0-RC1</version>
+      </dependency>
+   </dependencies>
+</project>

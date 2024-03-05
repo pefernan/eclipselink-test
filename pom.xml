@@ -1,0 +1,12 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>org.kie.eclipselink</groupId>
+   <version>1.0</version>
+   <artifactId>eclipse-link-parent</artifactId>
+   <packaging>pom</packaging>
+   <name>EclipseLink Test</name>
+
+   <modules>
+      <module>eclipselink-standalone</module>
+   </modules>
+</project>
